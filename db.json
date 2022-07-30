@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han",
+      "surname": "Solo",
+      "allegiance": "Rebel",
+      "spaceship": 1,
+      "planet": 1,
+      "img": "../../assets/img/han-solo.jpg",
+      "description": "Han Solo is a reckless smuggler with a sarcastic wit; he is a very practical guy and considers himself a materialist. Solo apparent proficiency of getting out of difficult situations served the smuggler well, a trait notably exhibited during Solofamed Kessel Run, which the young spacer completed in just over twelve parsecs."
+    },
+    {
+      "id": 2,
+      "name": "Boba",
+      "surname": "Fett",
+      "allegiance": "Rebel",
+      "spaceship": 2,
+      "planet": 2,
+      "img": "../../assets/img/boba-fett.jpg",
+      "description": "With his customized Mandalorian armor, deadly weaponry, Boba Fett was once regarded as one of the most fearsome and capable bounty hunters in the galaxy. An unaltered genetic clone of his father, bounty hunter Jango Fett, Boba learned combat and martial skills from a young age."
+    },
+    {
+      "id": 3,
+      "name": "Lando",
+      "surname": "Calrissian",
+      "allegiance": "Rebel",
+      "spaceship": 3,
+      "planet": 3,
+      "img": "../../assets/img/lando.jpg",
+      "description": "Lando Calrissian, is a human male smuggler, gambler, entrepreneur, and card player who became Baron Administrator of Cloud City and, later, a general in the Rebel Alliance. Calrissian became a general, volunteering to lead the assault on the DS-2 Death Star II Mobile Battle Station during the Battle of Endor. During the battle, he piloted the Millennium Falcon into the battle stations core, firing the shot which destroyed it."
+    }
+  ],
+  "planets": [
+    {
+      "id": 1,
+      "name": "Tatooine",
+      "smuggler": 1,
+      "img": "../../assets/img/tatooine.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kamino",
+      "smuggler": 2,
+      "img": "../../assets/img/Kamino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bespin",
+      "smuggler": 3,
+      "img": "../../assets/img/bespin.jpg"
+    }
+  ],
+  "spaceships": [
+    {
+      "id": 1,
+      "name": "Millennium Falcon",
+      "owner": 1,
+      "img": "../../assets/img/millennium-falcon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Slave-I",
+      "owner": 2,
+      "img": "../../assets/img/slave.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lady Luck",
+      "owner": 3,
+      "img": "../../assets/img/lady-luck.jpg"
+    }
+  ]
+}
